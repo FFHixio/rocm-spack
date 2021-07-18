@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210416
 MAINTAINER Spack Maintainers <maintainers@spack.io>
 
 ENV DOCKERFILE_BASE=ubuntu:16.04      \
